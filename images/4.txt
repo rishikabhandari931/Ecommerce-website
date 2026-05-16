@@ -1,0 +1,4 @@
+{ 	Name: Plant,
+	Category: Western wear,
+	Colour: Red
+}
