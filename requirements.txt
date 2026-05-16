@@ -1,5 +1,4 @@
 gunicorn
 flask
-os
 glob
 flask_cors
